@@ -1,0 +1,37 @@
+body {
+  background-color: #590053;
+  background-image: url(https://foni.club/uploads/posts/2023-01/1673141945_foni-club-p-oboi-na-klaviaturu-v-stile-anime-67.jpg);
+  background-position: center center; height: 100vh;
+  background-size: cover ;
+  background-repeat: no-repeat;
+
+
+
+ .zozo {
+   font-family: Cassandra;
+margin: 0px auto;
+width: 100%;
+min-width: 0px;
+max-width: 100009px;
+border: 0px solid #848484;
+color: white;
+text-align: left
+ }
+.red {
+  font-family:Monotype Corsiva;
+  text-align: left;
+  font-size: 70px;
+color: red;
+}
+.blue {
+font-family: Monotype Corsiva;
+text-align: center;
+font-size: 70px;
+color: blue;
+}
+.purple {
+  font-family: Monotype Corsiva;
+  text-align: right;
+  font-size: 125px;
+  color: purple;
+}
